@@ -7,6 +7,6 @@ Flying bro is a 2D game developed in Unity in C# for entertainment purposes.</br
 (https://github.com/VasilisKolokythasGitHub/FlyingBro/blob/master/screenshots/screen_shot2.jpg?raw=true "")
 </br>
 **SCREENSHOT**
-![Alt text](https://github.com/VasilisKolokythasGitHub/FlyingBro/blob/master/screenshots/screen_shot1.jpg?raw=true "" "")
+(https://github.com/VasilisKolokythasGitHub/FlyingBro/blob/master/screenshots/screen_shot1.jpg?raw=true "" "")
 
 
